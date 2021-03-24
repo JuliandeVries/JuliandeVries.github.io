@@ -1,0 +1,111 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.9);
+    padding: 100px;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    border-radius: 20px;
+}
+
+.Navbar{
+    background-color: #292929;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+body {
+    background-color:white;
+}
+
+nav{
+    text-align: center;
+    height: 20px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    color: white;
+}
+ 
+li a {
+    color: white;
+    padding: 10px;
+    transition: 0.1s;
+}
+
+li a:hover {
+    color: black;
+    padding: 10px;
+    transition: 0.1s;
+    background-color: #c4c4c4;
+    border-radius: 100px;
+}
+ 
+table {
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: #292929;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: left;
+}
+ 
+.tabel {
+    margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+ 
+th {
+    color: white;
+    padding: 10px;
+}
+ 
+td {
+    color: white;
+}
+
+.project1{
+    margin-top: 20px;
+    background-color: red;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.project1 h1,p {
+    text-align: left;
+}
+
+.project1 .button a {
+    text-align: center;
+}
+
+
+.project1 h1 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.button1 {
+    margin-top: 50px;
+}
+
+.button1 a{
+    color: black;
+    background-color: white;
+    border-radius: 100px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
